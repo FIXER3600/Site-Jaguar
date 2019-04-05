@@ -1,0 +1,23 @@
+/* Documento CSS */
+.quadrado{
+		width: 900px;
+		height:425px;
+		background-color: #CCCCCC;
+		margin-top: 50px;
+		margin-right: 500px;
+        line-height: 3px;
+	    font-size: 15px;
+}
+.quadrado2{
+	width: 900px;
+	height: 30px;
+	background-color: #000000;
+	top: 500px; 
+}
+.cor_de_texto{
+	color: #ffffff;
+}
+	
+hr{ 
+   border: 0.5px #000000 solid;
+}
